@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "CRX",
+  "version": "1.0.0",
+  "icons": {
+    "16": "assets/logo.png",
+    "48": "assets/logo.png",
+    "128": "assets/logo.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "options_page": "options.html",
+  "devtools_page": "devtools.html"
+}
